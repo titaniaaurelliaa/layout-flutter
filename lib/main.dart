@@ -55,6 +55,23 @@ class MyApp extends StatelessWidget {
       ],
     );
 
+    Widget textSection = Container(
+      padding: const EdgeInsets.all(32),
+      child: const Text(
+        'Gunung Welirang (3.156 mdpl) - Si Gunung Belerang Kota Batu\n\n'
+        'Gunung Welirang, yang berada pada ketinggian 3.156 meter di atas permukaan laut, '
+        'merupakan salah satu destinasi pendakian favorit di Kota Batu. Nama "Welirang" '
+        'sendiri berasal dari bahasa Jawa yang berarti belerang, sesuai dengan karakteristik '
+        'gunung ini yang memiliki kawasan kawah belerang aktif.\n\n'
+        'Oleh: Titania Aurellia / 2341760112',
+        softWrap: true,
+        style: TextStyle(
+          fontSize: 16,
+          height: 1.5,
+        ),
+      ),
+    );
+
     return MaterialApp(
       title: 'Flutter layout: Titania Aurellia / 2341760112',
       home: Scaffold(
@@ -65,6 +82,7 @@ class MyApp extends StatelessWidget {
           children: [
             titleSection,
             buttonSection,
+            textSection,
           ],
         ),
       ),
