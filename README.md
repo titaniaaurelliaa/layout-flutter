@@ -2,16 +2,14 @@
 
 A new Flutter project.
 
-## Getting Started
+Praktikum Ke-1 Membangun Layout di Flutter
+![Screnshoot layout_flutter](images/01.png)
 
-This project is a starting point for a Flutter application.
+Praktikum Ke-2 Implementasi button row
+![Screnshoot layout_flutter](images/02.png)
 
-A few resources to get you started if this is your first Flutter project:
+Praktikum Ke-3 Implementasi text section
+![Screnshoot layout_flutter](images/03.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# layout-flutter
+Praktikum Ke-4 Implementasi image section
+![Screnshoot layout_flutter](images/04.png)
